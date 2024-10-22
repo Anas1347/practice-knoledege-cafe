@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-6xl font-bold ">
+      <h1 className="text-6xl text-center font-bold ">
       Knowledge Cafe
     </h1>
     </>
